@@ -19,3 +19,4 @@ pytz
 python-dateutil
 openai-whisper
 crewai
+dotenv
